@@ -31,7 +31,7 @@ Returns a profile for a given user
     "name": "Dan Abramov",
     "location": "London, UK",
     "bio": "Working on @reactjs. Co-author of Redux and Create React App. Building tools for humans.",
-    "avatar_url": "https://avatars0.githubusercontent.com/u/810438?v=4",
+    "avatar-url": "https://avatars0.githubusercontent.com/u/810438?v=4",
     "titles": [
         "Jack of all Trades",
         "Mr. Popular"
@@ -60,7 +60,7 @@ Returns an array of profiles for the queried usernames
     "name": "Dan Abramov",
     "location": "London, UK",
     "bio": "Working on @reactjs. Co-author of Redux and Create React App. Building tools for humans.",
-    "avatar_url": "https://avatars0.githubusercontent.com/u/810438?v=4",
+    "avatar-url": "https://avatars0.githubusercontent.com/u/810438?v=4",
     "titles": [
         "Jack of all Trades",
         "Mr. Popular"
