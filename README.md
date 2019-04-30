@@ -21,6 +21,11 @@ This specification is split into multiple parts.
 
 Students will implement a web application along with a supporting API to get the following data for a given user's GitHub profile. The backend will be implemented as a Node API using Express that will call GitHub's API to fetch data necessary to derive/display the data specified. The user will see a home page where they can choose between two options: **inspect** or **duel**.
 
+## Token setup
+
+In order to increase your rate limit with the GitHub API and improve overall testability of your application as you develop, you will need to create and use a GitHub token. Instructions for this process are included in the [token-setup/README.md](token-setup/README.md).
+
+
 ### Profile
 
 Profiles are displayed on both the **inspect** page and the **duel** page. Both pages display profiles the same way. They are composed of the same fields and there should be no differences between a `profile` displayed on either page.
